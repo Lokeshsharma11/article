@@ -283,20 +283,6 @@
             "rssurl": "RSS URL",
             "papersperweek": "2",
             "avepercentageright": "70%"
-        },
-        {
-            "feedid": "09",
-            "enabledisable": "enable",
-            "creator": "Nikita",
-            "timestampcreation": "23 Apr 2017 8:42:35",
-            "feedname": "Nephrolithiasis, Kidney Stones",
-            "pubmedname": "Lew",
-            "description": "Description text",
-            "specialtyid": "Nephrology",
-            "topic": "Hypertension - Guidelines",
-            "rssurl": "RSS URL",
-            "papersperweek": "2",
-            "avepercentageright": "70%"
         }
     ]
 }
