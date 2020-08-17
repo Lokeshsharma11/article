@@ -18,7 +18,7 @@
             "qidcontent": "Content"
         },
         {
-            "pmid": "31859919",
+            "pmid": "32132346",
             "title": "Recurrent Nephrolithiasis in Adults",
             "journalname": "Europace",
             "pubdata": "Eliseo",
@@ -35,7 +35,7 @@
             "qidcontent": "Content"
         },
         {
-            "pmid": "31859919",
+            "pmid": "32384427",
             "title": "Hypertension and RAAS inhibition",
             "journalname": "Journal of hypertension",
             "pubdata": "Eliseo",
@@ -52,7 +52,7 @@
             "qidcontent": "Content"
         },
         {
-            "pmid": "31859919",
+            "pmid": "32294740",
             "title": "Reflex syncope",
             "journalname": "Journal of hypertension",
             "pubdata": "Eliseo",
@@ -69,7 +69,7 @@
             "qidcontent": "Content"
         },
         {
-            "pmid": "31859919",
+            "pmid": "31826279",
             "title": "Genetics",
             "journalname": "Journal of hypertension",
             "pubdata": "Eliseo",
@@ -86,7 +86,7 @@
             "qidcontent": "Content"
         },
         {
-            "pmid": "31859919",
+            "pmid": "31834639",
             "title": "Diagnosis",
             "journalname": "Journal of hypertension",
             "pubdata": "Eliseo",
@@ -103,7 +103,7 @@
             "qidcontent": "Content"
         },
         {
-            "pmid": "31859919",
+            "pmid": "32118714",
             "title": "Role of yoga",
             "journalname": "Journal of hypertension",
             "pubdata": "Eliseo",
@@ -120,7 +120,7 @@
             "qidcontent": "Content"
         },
         {
-            "pmid": "31859919",
+            "pmid": "32151750",
             "title": "Blood pressure",
             "journalname": "Journal of hypertension",
             "pubdata": "Eliseo",
@@ -137,7 +137,7 @@
             "qidcontent": "Content"
         },
         {
-            "pmid": "31859919",
+            "pmid": "32209833",
             "title": "Recurrent Nephrolithiasis",
             "journalname": "Journal of hypertension",
             "pubdata": "Eliseo",
@@ -154,7 +154,7 @@
             "qidcontent": "Content"
         },
         {
-            "pmid": "31859919",
+            "pmid": "31821912",
             "title": "Hypertensive Crisis",
             "journalname": "Journal of hypertension",
             "pubdata": "Eliseo",
@@ -173,13 +173,11 @@
     ],
       "feedinformation": [
         {
-            "feedid": "01",
             "enabledisable": "enable",
             "creator": "Eliseo",
             "timestampcreation": "23 Apr 2017 8:42:35",
             "feedname": "Syncope - Guidelinesss",
             "pubmedname": "Lew",
-            "description": "Description text",
             "specialtyid": "Cardiology",
             "topic": "Diabetes",
             "rssurl": "RSS URL",
@@ -187,13 +185,11 @@
             "avepercentageright": "70%"
         },
         {
-            "feedid": "02",
             "enabledisable": "enable",
             "creator": "Jayne",
             "timestampcreation": "23 Apr 2017 8:42:35",
             "feedname": "Arrhythmias - RCTs",
             "pubmedname": "Lew",
-            "description": "Description text",
             "specialtyid": "Endocrionology",
             "topic": "Syncope - Guidelines",
             "rssurl": "RSS URL",
@@ -201,13 +197,11 @@
             "avepercentageright": "70%"
         },
         {
-            "feedid": "03",
             "enabledisable": "enable",
             "creator": "Nikita",
             "timestampcreation": "23 Apr 2017 8:42:35",
             "feedname": "Coronary Artery Disease",
             "pubmedname": "Lew",
-            "description": "Description text",
             "specialtyid": "Nephrology",
             "topic": "Nephrolithiasis - RCT",
             "rssurl": "RSS URL",
@@ -215,13 +209,11 @@
             "avepercentageright": "70%"
         },
         {
-            "feedid": "04",
             "enabledisable": "enable",
             "creator": "Hayden",
             "timestampcreation": "23 Apr 2017 8:42:35",
             "feedname": "Randomized controlled trial",
             "pubmedname": "Lew",
-            "description": "Description text",
             "specialtyid": "Urology",
             "topic": "RCT",
             "rssurl": "RSS URL",
@@ -229,13 +221,11 @@
             "avepercentageright": "70%"
         },
         {
-            "feedid": "05",
             "enabledisable": "enable",
             "creator": "Ravi",
             "timestampcreation": "23 Apr 2017 8:42:35",
             "feedname": "Nephrolithiasis, Kidney Stones",
             "pubmedname": "Lew",
-            "description": "Description text",
             "specialtyid": "Gastroenterology",
             "topic": "Hypertension - Guidelines",
             "rssurl": "RSS URL",
@@ -249,7 +239,6 @@
             "timestampcreation": "23 Apr 2017 8:42:35",
             "feedname": "Kidney Stones",
             "pubmedname": "Lew",
-            "description": "Description text",
             "specialtyid": "Internal Medicine",
             "topic": "Syncope - Guidelines",
             "rssurl": "RSS URL",
@@ -257,13 +246,11 @@
             "avepercentageright": "70%"
         },
         {
-            "feedid": "07",
             "enabledisable": "enable",
             "creator": "Eliseo",
             "timestampcreation": "23 Apr 2017 8:42:35",
             "feedname": "Coronary Artery Disease",
             "pubmedname": "Lew",
-            "description": "Description text",
             "specialtyid": "Gastroenterology",
             "topic": "Nephrolithiasis - RCT",
             "rssurl": "RSS URL",
@@ -271,13 +258,11 @@
             "avepercentageright": "70%"
         },
         {
-            "feedid": "08",
             "enabledisable": "enable",
             "creator": "Jayne",
             "timestampcreation": "23 Apr 2017 8:42:35",
             "feedname": "Randomized controlled trial",
             "pubmedname": "Lew",
-            "description": "Description text",
             "specialtyid": "Endocrionology",
             "topic": "RCT",
             "rssurl": "RSS URL",
